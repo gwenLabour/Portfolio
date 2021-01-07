@@ -13,7 +13,7 @@ Author: Marija Zaric
 body {
   font-family: "Roboto", Arial, serif;
   background: transparent;
-  border: 20px #ffeb3b solid;
+  border: 20px #F9E79F solid;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -287,7 +287,7 @@ h1, h2, h3, h4, h5, h6 {
 .overlay {
     position: fixed;
     display: block; 
-    background: #669999;
+    background: #F0DE96;
     top: 0;
     border: 0;
     left: 0;
@@ -1414,7 +1414,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='20' viewBox
 @media(max-width: 1024px) {
 
 body {
-  border: 10px solid #FFEB3B;
+  border: 10px solid #F9E79F;
 }
 
 .home-heading, .inner-heading, .inner-heading-team, .inner-projects-heading {
