@@ -24,7 +24,7 @@ img {
 
 
 a {
-  color: #669999;
+  color: #F4E5A8;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .home-heading span {
-  background-color: #c1d6d6;
+  background-color: #F4E5A8;
   color: white;
   padding: 4px;
 }
@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .inner-heading  span {
-  background-color: #c1d6d6;
+  background-color: #F4E5A8;
   color: white;
   padding: 4px;
 }
@@ -506,7 +506,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='20' viewBox
 
 .story { 
 	margin-top: 30px;
-	color: #669999;
+	color: #F4E5A8;
 	font-size: 16px;
 	text-align: left;
 }
@@ -703,7 +703,7 @@ figure.effect-julia:hover p {
 	-webkit-transform-origin: left top 0;
 	transform-origin: left top 0;
 	background: transparent;
-	color: #669999;
+	color: #F4E5A8;
 	margin-left: 120px;
 	padding: 10px;
 	text-transform: uppercase;
@@ -723,7 +723,7 @@ figure.effect-julia:hover p {
 	-webkit-transform-origin: left top 0;
 	transform-origin: left top 0;
 	background: transparent;
-	color: #669999;
+	color: #F4E5A8;
 	margin-left: 120px;
 	padding: 10px;
 	text-transform: uppercase;
@@ -824,7 +824,7 @@ figure.effect-julia:hover p {
    padding-bottom: 50px;
    letter-spacing: 2px;
    display: block;
-   color: #669999;
+   color: #F4A87B;
 }
 
 .text-studio {
@@ -854,7 +854,7 @@ figure.effect-julia:hover p {
 }
 
  .img-studio {
-    border: 20px #c1d6d6 solid;
+    border: 20px #F4E5A8 solid;
     position: relative;
 	margin-top: 10px;
 }
@@ -994,7 +994,7 @@ figure.effect-julia:hover p {
 }
 
 .inner-heading-team  span {
-  background-color: #c1d6d6;
+  background-color: #F4E5A8;
   color: white;
   padding: 4px;
 }
@@ -1116,7 +1116,7 @@ figure.effect-julia:hover p {
 
 .speciality-info h3 {
 	margin-top: 20px;
-	color:  #669999;
+	color:  #F4A87B;
 	text-transform: capitalize;
 	font-size: 22px;
 	font-weight: 700;
@@ -1215,7 +1215,7 @@ figure.effect-julia:hover p {
    padding-bottom: 50px;
    letter-spacing: 2px;
    display: block;
-   color: #669999;
+   color: #F4E5A8;
 }
 
 .text-projectd {
@@ -1306,7 +1306,7 @@ figure.effect-julia:hover p {
 label {
 	font-size: 20px;
 	font-weight: 700;
-	color: #669999;
+	color: #F4E5A8;
 	padding-bottom: 6px;
 }
 
@@ -1331,7 +1331,7 @@ label {
    padding-bottom: 50px;
    letter-spacing: 2px;
    display: block;
-   color: #669999;
+   color: #F4E5A8;
 }
 
 .text-contact {
@@ -1357,8 +1357,8 @@ label {
 ------------------------------------------------------- */
 
 footer {
-	background-color: #727272;
-	background-image:url(../images/mag.png);
+	background-color: #fff;
+	background-image:url(../images/mag2.png);
 	background-position: left top;
 	background-repeat: repeat;
 }
@@ -1368,10 +1368,10 @@ footer .container {
 }
 
 .section-bg-color {
-	background-color: #1a1a1a; 
+	background-color: rgba(100, 100, 100, 0.2); 
 	padding-top: 42px;
 	padding-bottom: 42px;
-background-image: url("data:image/svg+xml,%3Csvg width='100' height='20' viewBox='0 0 100 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M21.184 20c.357-.13.72-.264 1.088-.402l1.768-.661C33.64 15.347 39.647 14 50 14c10.271 0 15.362 1.222 24.629 4.928.955.383 1.869.74 2.75 1.072h6.225c-2.51-.73-5.139-1.691-8.233-2.928C65.888 13.278 60.562 12 50 12c-10.626 0-16.855 1.397-26.66 5.063l-1.767.662c-2.475.923-4.66 1.674-6.724 2.275h6.335zm0-20C13.258 2.892 8.077 4 0 4V2c5.744 0 9.951-.574 14.85-2h6.334zM77.38 0C85.239 2.966 90.502 4 100 4V2c-6.842 0-11.386-.542-16.396-2h-6.225zM0 14c8.44 0 13.718-1.21 22.272-4.402l1.768-.661C33.64 5.347 39.647 4 50 4c10.271 0 15.362 1.222 24.629 4.928C84.112 12.722 89.438 14 100 14v-2c-10.271 0-15.362-1.222-24.629-4.928C65.888 3.278 60.562 2 50 2 39.374 2 33.145 3.397 23.34 7.063l-1.767.662C13.223 10.84 8.163 12 0 12v2z' fill='%23050506' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E");
+background-image: url();
 }
 
 .section-bg-color1 {
@@ -1391,14 +1391,16 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='20' viewBox
 	margin-top: 40px;
 	letter-spacing: 0.1em;
 	font-size: 17px;
-	color: #E0DDDD;
+	color: #000;
 	text-align: left;
+    font-weight: 500;
 }
 
 .section-bg-color p {
-	color: #E0DDDD;
-	font-size: 14px;
+	color: #000;
+	font-size: 21px;
 	margin-top: -10px;
+    font-weight: 500;
 }
 
 .icons-f {
@@ -1497,7 +1499,7 @@ body {
 	-webkit-transform-origin: left top 0;
 	transform-origin: left top 0;
 	background: transparent;
-	color: #669999;
+	color: #F4E5A8;
 	margin-left: 290px;
 	padding: 10px;
 	text-transform: uppercase;
@@ -1547,7 +1549,7 @@ header {
   }
   
 body {
-  border: 10px solid #669999;
+  border: 10px solid #F4E5A8;
 }
 
 figure.effect-julia h2 {
@@ -1609,7 +1611,7 @@ figure.effect-julia p {
 	-webkit-transform-origin: left top 0;
 	transform-origin: left top 0;
 	background: transparent;
-	color: #669999;
+	color: #F4E5A8;
 	margin-left: 290px;
 	padding: 10px;
 	text-transform: uppercase;
