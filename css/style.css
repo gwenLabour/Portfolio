@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .home-heading {
-  font-size: 40px;
+  font-size: 50px;
   font-weight: 300;
   line-height: 1.4;
   margin-bottom: 0;
@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .text-home {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 1.4;
   margin-bottom: 29px;
@@ -710,7 +710,7 @@ figure.effect-julia:hover p {
 	text-transform: 1px 1px 0px rgba(0, 0, 0, 0.5);
 	float: left;
 	letter-spacing: 0.2em;
-	font-size: 17px;
+	font-size: 22px;
 }
 
 .vertical-text-projects {
@@ -730,7 +730,7 @@ figure.effect-julia:hover p {
 	text-transform: 1px 1px 0px rgba(0, 0, 0, 0.5);
 	float: left;
 	letter-spacing: 0.2em;
-	font-size: 17px;
+	font-size: 20px;
 }
 
 .line-symbol {
@@ -1391,7 +1391,7 @@ background-image: url();
 .section-bg-color h2 {
 	margin-top: 40px;
 	letter-spacing: 0.1em;
-	font-size: 17px;
+	font-size: 19px;
 	color: #000;
 	text-align: left;
     font-weight: 700;
@@ -1399,7 +1399,7 @@ background-image: url();
 
 .section-bg-color p {
 	color: #000;
-	font-size: 21px;
+	font-size: 23px;
 	margin-top: -10px;
     font-weight: 500;
 }
