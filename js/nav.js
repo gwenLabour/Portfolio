@@ -19,6 +19,3 @@ $('.toggle').click(function() {
     }
 });
 
-
-
-
