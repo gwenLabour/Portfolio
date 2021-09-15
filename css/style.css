@@ -1358,7 +1358,7 @@ label {
 
 footer {
 	background-color: #fff;
-	background-image:url(../images/mag2.png);
+	background-image:url(../images/banner2.png);
 	background-position: left top;
 	background-repeat: repeat;
 }
@@ -1378,7 +1378,7 @@ background-image: url();
 	background-color: rgba(100, 100, 100, 0.4);
 	padding-top: 54px;
 	padding-bottom: 54px;
-	height: 256px;
+	height: 279px;
 }
 
 .section-bg-color1 h3 {
